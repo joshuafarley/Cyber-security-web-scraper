@@ -45,7 +45,7 @@ To install the required dependencies, run e.g:
 
 ```bash
 pip install fake_useragent
-
+```
 ## Ethical Considerations
 
 When using this tool, it is important to consider the following ethical guidelines to ensure responsible data scraping and respect for the terms of service of the websites and APIs you interact with:
