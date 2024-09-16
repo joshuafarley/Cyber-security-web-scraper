@@ -46,3 +46,28 @@ To install the required dependencies, run e.g:
 ```bash
 pip install fake_useragent
 
+## Ethical Considerations
+
+When using this tool, it is important to consider the following ethical guidelines to ensure responsible data scraping and respect for the terms of service of the websites and APIs you interact with:
+
+### 1. **Respect API and Website Terms of Service**
+   - Ensure that your usage of the JSearch API complies with its [terms and conditions](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch). Many websites and APIs limit how frequently you can access their data, and scraping outside of these limits can result in being blocked.
+   - Do not overload APIs or websites with excessive requests. Be mindful of rate limits and use appropriate delays between requests, as implemented in this script.
+
+### 2. **Data Privacy**
+   - Respect the privacy of individuals and organizations by ensuring that scraped data is not misused or redistributed in ways that violate privacy agreements or laws such as the GDPR or CCPA.
+   - Do not scrape personal or sensitive information unless you have explicit permission from the data owner or are authorized to do so.
+
+### 3. **Non-commercial Use**
+   - This tool is intended for educational and personal use. Do not use this tool for large-scale commercial purposes without properly evaluating the legal implications of scraping data from third-party sources.
+   - Always verify with the data source if you intend to use the scraped data for purposes other than research or job searching.
+
+### 4. **Transparency and Fair Use**
+   - Be transparent about your usage of automated tools for data scraping, especially when interacting with third-party services.
+   - Ensure that the scraped data is used in ways that benefit all parties, such as job seekers looking for employment, rather than exploiting the data for unfair advantages.
+
+### 5. **Respect Intellectual Property**
+   - Websites and services often have copyrights or intellectual property rights associated with their data. Be cautious about how you use the data and ensure that you're not violating intellectual property laws or terms.
+   - Use the data responsibly and avoid redistributing it without proper attribution or permissions where required.
+
+By following these ethical considerations, you can ensure that your usage of this tool is responsible, respectful, and in compliance with legal and ethical guidelines.
