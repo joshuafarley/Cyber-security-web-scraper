@@ -540,7 +540,7 @@ import http.client
 conn = http.client.HTTPSConnection("jsearch.p.rapidapi.com")
 
 headers = {
-    'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",
+    'x-rapidapi-key': "...",
     'x-rapidapi-host': "jsearch.p.rapidapi.com"
 }
 
@@ -644,7 +644,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",
+        'x-rapidapi-key': "...",
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -794,7 +794,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",
+        'x-rapidapi-key': "...",
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -929,7 +929,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -1067,7 +1067,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -1366,7 +1366,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -1512,7 +1512,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "072f716e1fmsh1d95c184aa5c087p18909cjsn7bb6a3435ed3",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -1660,7 +1660,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "5edb261a72msh00f84c33dba27a4p1d2680jsn6b062ef2fe86",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
@@ -1859,7 +1859,7 @@ def search_jobs(query, location, page=1, num_pages=1, date_posted='all'):
 
     # Replace these values with your own RapidAPI credentials
     headers = {
-        'x-rapidapi-key': "5edb261a72msh00f84c33dba27a4p1d2680jsn6b062ef2fe86",  # Enter your own RapidAPI key here
+        'x-rapidapi-key': "...",  # Enter your own RapidAPI key here
         'x-rapidapi-host': "jsearch.p.rapidapi.com"
     }
 
