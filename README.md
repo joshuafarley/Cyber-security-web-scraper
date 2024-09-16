@@ -41,7 +41,7 @@ The tool searches for jobs using the following keywords:
 - [time](https://docs.python.org/3/library/time.html) (to handle random delays)
 - [random](https://docs.python.org/3/library/random.html) (to generate random delay intervals)
 
-To install the required dependencies, run:
+To install the required dependencies, run e.g:
 
 ```bash
 pip install fake_useragent
